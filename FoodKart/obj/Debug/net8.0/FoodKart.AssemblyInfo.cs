@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodKart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9157f236886cd0359b5651af4816d7eb34e598be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9975c256745b783c23359bce94acae090a7d003")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodKart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodKart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,3 +5,27 @@ update_quantity(restaurantName, quantityToAdd)
 rate_restaurant(restaurantName, rating, comment) // comment optional 
 show_restaurant(orderFieldName) // can be rating or price
 place_order(restaurantName, quantity)
+
+
+register_user(“Pralove”, “M”, “phoneNumber-1”, “HSR”)
+register_user(“Nitesh”, “M”, “phoneNumber-2”, “BTM”)
+register_user(“Vatsal”, “M”,  “phoneNumber-3”, “BTM”)
+
+login_user(“phoneNumber-1”)
+
+register_restaurant(“Food Court-1”, “BTM/HSR”, “NI Thali”, 100, 5)
+register_restaurant(“Food Court-2”, “BTM”, “Burger”, 120, 3)
+login_user(“phoneNumber-2”)
+register_restaurant(“Food Court-3”, “HSR”, “SI Thali”, 150, 1)
+login_user(“phoneNumber-3”)
+
+show_restaurant(“price”)
+place_order(“Food Court-1”, 2)
+place_order(““Food Court-2”, 7)
+create_review(“Food Court-2”, 3, “Good Food”)
+create_review(“Food Court-1”, 5, “Nice Food”)
+
+show_restaurant(“rating”)
+login_user(“phoneNumber-1”)
+update_quantity(“Food Court-2”, 5)
+update_location(“Food Court-2”, “BTM/HSR”)

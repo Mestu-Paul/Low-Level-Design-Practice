@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\LLD\\FootKart\\FoodKart.csproj",
+      "projectUniqueName": "D:\\Practice\\LLD\\FoodKart\\FoodKart.csproj",
       "projectName": "FoodKart",
-      "projectPath": "D:\\Practice\\LLD\\FootKart\\FoodKart.csproj",
+      "projectPath": "D:\\Practice\\LLD\\FoodKart\\FoodKart.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\LLD\\FootKart\\obj\\",
+      "outputPath": "D:\\Practice\\LLD\\FoodKart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

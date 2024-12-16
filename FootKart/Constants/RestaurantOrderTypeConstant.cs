@@ -1,4 +1,4 @@
-﻿namespace FootKart.Constants
+﻿namespace FoodKart.Constants
 {
     public class RestaurantOrderTypeConstant
     {

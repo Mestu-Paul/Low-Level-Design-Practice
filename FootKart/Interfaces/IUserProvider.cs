@@ -1,6 +1,6 @@
-﻿using FootKart.Models;
+﻿using FoodKart.Models;
 
-namespace FootKart.Interfaces
+namespace FoodKart.Interfaces
 {
     public interface IUserProvider
     {

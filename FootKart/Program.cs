@@ -1,5 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-using FootKart.Services;
+﻿
+using FoodKart.Services;
 
-var footKart = FoodKartService.GetInstance();
-footKart.Run();
+var foodKartService = FoodKartService.GetInstance();
+foodKartService.Run();

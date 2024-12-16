@@ -1,4 +1,4 @@
-﻿namespace FootKart.Util
+﻿namespace FoodKart.Util
 {
     public static class Logger
     {

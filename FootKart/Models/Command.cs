@@ -1,4 +1,4 @@
-﻿namespace FootKart.Models
+﻿namespace FoodKart.Models
 {
     public class Command
     {

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\LLD\\FootKart\\FootKart.csproj",
-      "projectName": "FootKart",
-      "projectPath": "D:\\Practice\\LLD\\FootKart\\FootKart.csproj",
+      "projectUniqueName": "D:\\Practice\\LLD\\FootKart\\FoodKart.csproj",
+      "projectName": "FoodKart",
+      "projectPath": "D:\\Practice\\LLD\\FootKart\\FoodKart.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
       "outputPath": "D:\\Practice\\LLD\\FootKart\\obj\\",
       "projectStyle": "PackageReference",

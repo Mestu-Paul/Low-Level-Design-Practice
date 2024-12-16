@@ -1,0 +1,7 @@
+register_user(name, gender, phoneNumber, pincode) // phoneNumber
+login_user(userId) // phoneNumber as user id
+Register_restaurant(restaurantName, pincode, foodItemName, foodItemPrice, initialQunatity)
+update_quantity(restaurantName, quantityToAdd)
+rate_restaurant(restaurantName, rating, comment) // comment optional 
+show_restaurant(orderFieldName) // can be rating or price
+place_order(restaurantName, quantity)

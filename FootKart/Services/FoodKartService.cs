@@ -1,8 +1,8 @@
-﻿using FootKart.Interfaces;
-using FootKart.Models;
-using FootKart.Util;
+﻿using FoodKart.Interfaces;
+using FoodKart.Models;
+using FoodKart.Util;
 
-namespace FootKart.Services
+namespace FoodKart.Services
 {
     public class FoodKartService
     {
